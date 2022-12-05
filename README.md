@@ -1,6 +1,8 @@
 # Nonlinear Behavior of Cymbals and Gongs
 Code used for visualizing nonlinear behavior in Cymbals and Gongs.
 
+Code was developed in Jupyter notebooks, so the files are .ipynb
+
 References used to develop the scripts are given below.
 
 1. N. H. Fletcher, “The nonlinear physics of musical instruments,” Rep. Prog. Phys, vol. 62, pp. 723–764, 1999.
